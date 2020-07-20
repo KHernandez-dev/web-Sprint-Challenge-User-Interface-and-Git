@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+In HTML there are two ways to label things:semantics or just using containers like "div". It is always recommend to use semantics because of how specific it can be. Instead of using <div> you can instead use <header> or <footer>.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Inline keeps everying within the same while while block "stacks" it.
 
 3. What are the 4 areas of the box model?
 
+Content edge, padding edge, border edge, and margin edge
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git and GitHub is very valuable because it alows mulitple developers to edit the same code and "push" it up without clashing. The main admin or "main" branch can then approve it there.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
